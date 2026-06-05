@@ -1,0 +1,2 @@
+# Syntecxhub_Customer.Segmentation.RFM.Analysis.Project_CynthiaOGBEKHIULU
+Transform raw transactional data into actionable intelligence with this advanced RFM (Recency, Frequency, Monetary) Customer Segmentation project. Analyzing 18.48K customers and $29.36M in sales, this interactive Power BI dashboard replaces generic marketing with targeted strategies, optimized spend, and data-driven retention frameworks.
