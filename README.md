@@ -37,3 +37,10 @@ BI Tool: Power BI Desktop
  
  Retention Tool: Quickly isolate the 1.8K "At Risk" customers or high-value "Cannot Lose Them" personas to deploy immediate churn-prevention workflows.
 ​Personalization Engine: Equips growth teams to tailor bespoke email workflows based on authentic historical purchasing behaviors rather than intuition.
+
+📂 Repository Structure
+/Dataset : Contains the raw xlxs files.
+/PowerBI_Report : Contains the native .pbix dashboard file
+
+👤 Author
+Developed by Cynthia Ogbekhiulu * GitHub: @CynthiaOgbe2907
